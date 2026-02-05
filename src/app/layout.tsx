@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "namedlucas.com",
+  title: "namedlucas",
   description: "By Lucas Marohn",
 };
 
